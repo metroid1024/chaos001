@@ -1,0 +1,7 @@
+name: Chaos Config
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
